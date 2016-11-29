@@ -1,0 +1,24 @@
+{
+  "name": "gopri",
+  "version": "0.0.0",
+  "authors": [
+    "Alan Guevara <alangvara@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0",
+    "isotope": "~2.2.0",
+    "fancybox": "~2.1.5",
+    "dropzone": "4.0.*",
+    "html5sortable": "*"
+  }
+}
