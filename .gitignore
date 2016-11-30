@@ -1,16 +1,17 @@
-vendor/
-node_modules/
-.idea/
-
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
-# Laravel 5 & Lumen specific
-bootstrap/cache/
+/.idea
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
 .env.*.php
 .env.php
-.env
-
-# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+*.DS_Store
+Thumbs.db
+.project
+public/uploads/*
+public/bower_components
+!public/uploads/.gitkeep
+/nbproject/private/
+_Sources
+nbproject
+docs
